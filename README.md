@@ -4,4 +4,4 @@
 # Device: MacBook Pro 13' 2020 
 # Writing on: Java ☕️
 ### Contact me: 
-## telegram: @_shamilye_ 📥
+## telegram: @shamilye007 📥
