@@ -1,7 +1,5 @@
 ### Hi there 👋
 ## ⚓️My name is Gasym, I'm from Saint-Petersburg, Russia.
-## 💁🏽‍♂️About myself:
-# Device: MacBook Pro 13' 2020 
-# Writing on: Java ☕️
+
 ### Contact me: 
-## telegram: @shamilye007 📥
+## telegram: @namehanike 📥
